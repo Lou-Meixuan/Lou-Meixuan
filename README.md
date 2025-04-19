@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 ### 🧑‍💻 关于我 | About Me
 
-- 🎓 多伦多大学计算机系在读（University of Toronto CS Major）
+- 🎓 多伦多大学计算机系在读 | University of Toronto CS student
 - 🧠 擅长 Python 编程、数据结构与算法、项目协作管理
 - 🎮 正在开发文字冒险游戏、ML 模型 和 算法刷题笔记
-- 🕵️‍♀️ GitHub 是我管理项目和积累成长轨迹的侦探档案馆
-
+  
 ---
 
 ### 🛠️ 技术栈 | Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=openjdk)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat-square&logo=visual-studio-code)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat-square&logo=markdown)
