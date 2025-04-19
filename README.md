@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi there 👋 I'm Meixuan</h2>
+<h2 align="center">Hi I'm Meixuan - ̗̀ᖰ ˶╹ꇴ╹˶ ᖳ ̖́-</h2>
 <p align="center">✨ CS Student @ University of Toronto | Python Dev | Problem Solver ✨</p>
 
 ---
