@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### 📬 联系我 | Contact Me
 
-- Email: your.email@utoronto.ca
-- GitHub: [github.com/你的用户名](https://github.com/你的用户名)
+- Email: meixuan.lou@mail.utoronto.ca
+- GitHub: [github.com/Lou-Meixuan](https://github.com/Lou-Meixuan)
 
 > “代码是我破案的工具，GitHub 是我记录真相的笔记本。” – 华生小姐
