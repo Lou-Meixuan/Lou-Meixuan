@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 - Email: meixuan.lou@mail.utoronto.ca
 - GitHub: [github.com/Lou-Meixuan](https://github.com/Lou-Meixuan)
 
-> ദ്ദി˶ｰ̀֊ｰ́ )✧ ☀️
+> ദ്ദി˶ｰ̀֊ｰ́ )✧
