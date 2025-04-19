@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi I'm Meixuan - ̗̀ᖰ ˶╹ꇴ╹˶ ᖳ ̖́-</h2>
-<p align="center">✨ CS Student @ University of Toronto | Python Dev | Problem Solver ✨</p>
+<p align="center">✨ CS Student @ University of Toronto ✨</p>
 
 ---
 
-### 🧑‍💻 关于我 | About Me
+### 🧑‍💻 About Me
 
-- 🎓 多伦多大学计算机系在读 | University of Toronto CS student
+- 🎓 University of Toronto CS student
   
 ---
 
-### 🛠️ 技术栈 | Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=openjdk)
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📬 联系我 | Contact Me
+### 📬 Contact Me
 
 - Email: meixuan.lou@mail.utoronto.ca
 - GitHub: [github.com/Lou-Meixuan](https://github.com/Lou-Meixuan)
